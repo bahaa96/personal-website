@@ -1,0 +1,212 @@
+{
+  "daily-mealz": {
+    "title": "DailyMealz - Food Delivery App",
+    "label": "DailyMealz",
+    "thumbnail": "/images/viewports/dailymealz-min.webp",
+    "viewports": [
+      {
+        "imageURL": "/images/viewports/dailymealz-min.webp"
+      },
+      {
+        "imageURL": "/images/viewports/dailymealz-1-min.webp"
+      },
+      {
+        "imageURL": "/images/viewports/dailymealz-2-min.webp"
+      },
+      {
+        "imageURL": "/images/viewports/dailymealz-3-min.webp"
+      }
+    ],
+    "category": "Web App",
+    "description": "DailyMealz is a Subscription-based food delivery app operates in Suadi Arabia. My role was leading the frontend team to build their website, mobile app, and admin dashboard using React and React Native. One of my challenges there was to integrate GraphQL with their website and apple pay with the mobile app.",
+    "links": [
+      {
+        "label": "Landing Demo",
+        "URL": "https://dailymealz.com/"
+      },
+      {
+        "label": "Web App Demo",
+        "URL": "http://35.246.252.237/"
+      },
+      {
+        "label": "Mobile App Demo",
+        "URL": "https://apps.apple.com/us/app/dailymealz/id1286998039"
+      }
+    ],
+    "technologies": [
+      "/images/icons/react-logo.webp", 
+      "/images/icons/typescript-logo.webp",
+      "/images/icons/GraphQL_Logo.webp"
+    ]
+  },
+  "quran": {
+    "title": "Quran.com",
+    "label": "Quran.com",
+    "thumbnail": "/images/viewports/quran-min.webp",
+    "viewports": [
+      {
+        "imageURL": "/images/viewports/quran-1-min.webp"
+      }
+    ],
+    "category": "Web App",
+    "description": "Quran.com is a leading website that takes the Moshaf model with Tafsir, Translation and transliteration. This website has hit 8 M visits in a day. I worked on making V2 of this website along with it’s team for 3+ mos.",
+    "links": [
+      {
+        "label": "Landing Demo",
+        "URL": "https://quran.com"
+      }
+    ],
+    "technologies": [
+      "/images/icons/react-logo.webp", 
+      "/images/icons/typescript-logo.webp",
+      "/images/icons/GraphQL_Logo.webp"
+    ]
+  },
+  "tarjimly": {
+    "title": "Tarjimly",
+    "label": "Tarjimly",
+    "thumbnail": "/images/viewports/tarjimly-min.webp",
+    "viewports": [
+      {
+        "imageURL": "/images/viewports/Dailymealz-2-min.webp"
+      },
+      {
+        "imageURL": "/images/viewports/Dailymealz-3-min.webp"
+      }
+    ],
+    "category": "Mobile App",
+    "description": "Tarjimly is an app that gives volunteered bilinguals the ability to help the refugees in USA to communicate with doctors in the refugee aid areas and then use their conversations to build Arabic speech recognition system to help Tarjimly rely on that system in the future. I’ve worked on Tarjimly for more than 4 mos. My role was to build their entire BETA version to be able to get some funds",
+    "links": [
+      {
+        "label": "Landing Demo",
+        "URL": "https://tarjim.ly"
+      },
+      {
+        "label": "Mobile App Demo",
+        "URL": "https://apps.apple.com/us/app/dailymealz/id1286998039"
+      }
+    ],
+    "technologies": [
+      "/images/icons/react-logo.webp", 
+      "/images/icons/typescript-logo.webp",
+      "/images/icons/GraphQL_Logo.webp"
+    ]
+  },
+  "tarteel": {
+    "title": "Tarteel",
+    "label": "Tarteel",
+    "thumbnail": "/images/viewports/tarteel-logo-min.webp",
+    "viewports": [
+      {
+        "imageURL": "/images/viewports/tarteel-1-min.webp"
+      },
+      {
+        "imageURL": "/images/viewports/tarteel-2-min.webp"
+      }
+    ],
+    "category": "Web & Mobile App",
+    "description": " the world's first public, an open-source dataset of Quran recitations by ordinary people. Tarteel is a Project for building an ML model that recognizes Arabic speech, Tarteel considered no. 1 project in this field. I’ve worked on this project for about 6 months, my role there wasn’t in the ML team but I was everything else I was in charge of building their mobile app, website, AWS infrastructure and some tools that help the ML team to trim audio files and manipulate their DB.",
+    "links": [
+      {
+        "label": "Landing Demo",
+        "URL": "https://Tarteel.io/"
+      },
+      {
+        "label": "Web App Demo",
+        "URL": "http://35.246.252.237/"
+      },
+      {
+        "label": "Mobile App Demo",
+        "URL": "https://apps.apple.com/us/app/dailymealz/id1286998039"
+      }
+    ],
+    "technologies": [
+      "/images/icons/react-logo.webp", 
+      "/images/icons/typescript-logo.webp",
+      "/images/icons/GraphQL_Logo.webp"
+    ]
+  },
+  "pool-with-me": {
+    "title": "Poolwithme - Carpooling App",
+    "label": "Poolwith.me",
+    "thumbnail": "/images/viewports/poolwithme-logo-min.webp",
+    "viewports": [
+      {
+        "imageURL": "/images/viewports/poolwithme-logo-min.webp"
+      },
+      {
+        "imageURL": "/images/viewports/poolwithme-1-min.webp"
+      }
+    ],
+    "category": "Web& & Mobile App",
+    "description": "Poolwith.me is a carpooling PWA website only works in the Bay Area, California. I’ve built this website in about a month using React.js, node.js and typescript.",
+    "links": [
+      {
+        "label": "Landing Demo",
+        "URL": "https://www.poolwith.me/"
+      }
+    ],
+    "technologies": [
+      "/images/icons/react-logo.webp", 
+      "/images/icons/typescript-logo.webp",
+      "/images/icons/GraphQL_Logo.webp"
+    ]
+  },
+  "muslim-events": {
+    "title": "muslim.events",
+    "label": "muslim.events",
+    "thumbnail": "/images/viewports/muslim-events-min.webp",
+    "viewports": [
+      {
+        "imageURL": "/images/viewports/muslim-events-min.webp"
+      },
+      {
+        "imageURL": "/images/viewports/muslim-events-1-min.webp"
+      }
+    ],
+    "category": "Web App",
+    "description": "Muslim events is a website that helps Muslims in some of the USA states specially in California to see and enter events to make the others Muslims aware of and the website is either send them notifications via a messenger bot or attach the events to their Google calendar all along with a weekly mail report. I’ve built this website in about 2 weeks.  ",
+    "links": [
+      {
+        "label": "Landing Demo",
+        "URL": "https://muslim.events/"
+      }
+    ],
+    "technologies": [
+      "/images/icons/react-logo.webp", 
+      "/images/icons/typescript-logo.webp",
+      "/images/icons/GraphQL_Logo.webp"
+    ]
+  },
+  "el-mawkaa": {
+    "title": "El Mawkaa",
+    "label": "El Mawkaa",
+    "thumbnail": "/images/viewports/elmawkaa-logo.jfif",
+    "viewports": [
+      {
+        "imageURL": "/images/viewports/el-mawkaa-1.jpg"
+      }
+    ],
+    "category": "Web App",
+    "description": "El mawkaa Engages all construction industry stakeholders, Elmawakaa is a team of highly skilled Architects, Civil Engineers and Software Developers aiming to be a part of shaping the AEC industry. My role there was to build their mobile app using React native.  ",
+    "links": [
+      {
+        "label": "Landing Demo",
+        "URL": "http://www.elmawkaa.com"
+      },
+      {
+        "label": "Web App Demo",
+        "URL": "http://35.246.252.237/"
+      },
+      {
+        "label": "Mobile App Demo",
+        "URL": "https://apps.apple.com/us/app/dailymealz/id1286998039"
+      }
+    ],
+    "technologies": [
+      "/images/icons/react-logo.webp", 
+      "/images/icons/typescript-logo.webp",
+      "/images/icons/GraphQL_Logo.webp"
+    ]
+  }
+}
