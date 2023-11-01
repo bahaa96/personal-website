@@ -19,7 +19,7 @@
 
   </div>
 
-  <div class="text-md ps-6 pe-24 mt-24">
+  <div class="text-md ps-6 w-3/4 mt-24 flex gap-2 flex-wrap">
     {#each projects as { label, slug }}
       <a href="/project/{slug}" class="text-secondary-text">
         @{ label }

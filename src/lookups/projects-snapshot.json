@@ -42,5 +42,17 @@
   {
     "label": "muslim.events",
     "slug": "muslim-events"
+  },
+  {
+    "label": "PayMasr",
+    "slug": "pay-masr"
+  },
+  {
+    "label": "Rabbit Downloader",
+    "slug": "rabbit-downloader"
+  },
+  {
+    "label": "Lens for LinkedIn",
+    "slug": "lens-for-linkedin"
   }
 ]
