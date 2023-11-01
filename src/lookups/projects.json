@@ -34,9 +34,9 @@
       }
     ],
     "technologies": [
-      "/images/icons/react-logo.webp", 
-      "/images/icons/typescript-logo.webp",
-      "/images/icons/GraphQL_Logo.webp"
+      "/images/icons/react.webp", 
+      "/images/icons/typescript.webp",
+      "/images/icons/graphql.webp"
     ]
   },
   "quran": {
@@ -57,9 +57,9 @@
       }
     ],
     "technologies": [
-      "/images/icons/react-logo.webp", 
-      "/images/icons/typescript-logo.webp",
-      "/images/icons/GraphQL_Logo.webp"
+      "/images/icons/react.webp", 
+      "/images/icons/typescript.webp",
+      "/images/icons/graphql.webp"
     ]
   },
   "tarjimly": {
@@ -87,9 +87,9 @@
       }
     ],
     "technologies": [
-      "/images/icons/react-logo.webp", 
-      "/images/icons/typescript-logo.webp",
-      "/images/icons/GraphQL_Logo.webp"
+      "/images/icons/react.webp", 
+      "/images/icons/typescript.webp",
+      "/images/icons/graphql.webp"
     ]
   },
   "tarteel": {
@@ -121,9 +121,9 @@
       }
     ],
     "technologies": [
-      "/images/icons/react-logo.webp", 
-      "/images/icons/typescript-logo.webp",
-      "/images/icons/GraphQL_Logo.webp"
+      "/images/icons/react.webp", 
+      "/images/icons/typescript.webp",
+      "/images/icons/graphql.webp"
     ]
   },
   "pool-with-me": {
@@ -147,9 +147,9 @@
       }
     ],
     "technologies": [
-      "/images/icons/react-logo.webp", 
-      "/images/icons/typescript-logo.webp",
-      "/images/icons/GraphQL_Logo.webp"
+      "/images/icons/react.webp", 
+      "/images/icons/typescript.webp",
+      "/images/icons/graphql.webp"
     ]
   },
   "muslim-events": {
@@ -173,9 +173,9 @@
       }
     ],
     "technologies": [
-      "/images/icons/react-logo.webp", 
-      "/images/icons/typescript-logo.webp",
-      "/images/icons/GraphQL_Logo.webp"
+      "/images/icons/react.webp", 
+      "/images/icons/typescript.webp",
+      "/images/icons/graphql.webp"
     ]
   },
   "el-mawkaa": {
@@ -204,9 +204,9 @@
       }
     ],
     "technologies": [
-      "/images/icons/react-logo.webp", 
-      "/images/icons/typescript-logo.webp",
-      "/images/icons/GraphQL_Logo.webp"
+      "/images/icons/react.webp", 
+      "/images/icons/typescript.webp",
+      "/images/icons/graphql.webp"
     ]
   }
 }

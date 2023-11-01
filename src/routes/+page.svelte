@@ -19,13 +19,12 @@
 
   </div>
 
-  <div class="text-md ps-6 mt-24">
+  <div class="text-md ps-6 pe-24 mt-24">
     {#each projects as { label, slug }}
       <a href="/project/{slug}" class="text-secondary-text">
         @{ label }
       </a>
     {/each}
-   
   
   </div>
 
@@ -45,17 +44,6 @@
     </button>
   </div>
 
-  
-
-
-  <!-- <div>
-    <div >
-      <div>
-        <img src="images/about.jpg" alt="about img" loading="lazy" />
-      </div>
-    </div>
-  </div> -->
-  
   <div class="absolute end-12 top-1/2 -translate-y-1/2 flex flex-col gap-8">
     <span class="bg-secondary h-4 w-0.5 self-center"></span>
     <a href="https://github.com/bahaa96" class="block h-7 w-7 p-1 text-primary-text transition-colors ease-in-out hover:text-secondary-text">
@@ -75,9 +63,5 @@
       #product #hacker. #senior #thinker.
     </div>
   </div>
-  
-  
-  
-  
   
 </div>  

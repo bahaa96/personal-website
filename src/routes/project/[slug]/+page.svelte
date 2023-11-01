@@ -28,7 +28,7 @@
 	<div class="grid grid-cols-2 gap-12 py-8">
 		<div>
 			{#each data.viewports as { imageURL }}
-				<img src={imageURL} alt="img" />
+				<img src={imageURL} alt="img" loading="lazy" />
 			{/each}
 		</div>
 
@@ -50,7 +50,7 @@
 
 			<p class="flex gap-4 my-4">
 			{#each data.technologies as imageURL}
-				<img src={imageURL} alt="react.js logo" class="w-8 h-7" />
+				<img src={imageURL} alt="react.js logo" class="w-8 h-8"  loading="lazy"/>
 			{/each}
 			</p>
 		</div>
